@@ -1,0 +1,9 @@
+{
+  "name": "clean-turkish",
+  "version": "1.1.0",
+  "description": "Türkçe metinlerden yapay zeka yazım kalıplarını temizleyen skill ve araçlar.",
+  "author": {
+    "name": "0nur0duncu"
+  },
+  "license": "MIT"
+}
